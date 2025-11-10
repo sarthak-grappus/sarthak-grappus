@@ -15,46 +15,26 @@
 - 😄 Pronouns: He/Him/His
 - 🤫 I'm writing a book for OOP's in HTML
 ```
-[?25l[?7l[0m[32m[1m                    'c.
-                 ,xNMM.
-               .OMMMMo
-               OMMM0,
-     .;loddo:' loolloddol;.
-   cKMMMMMMMMMMNWMMMMMMMMMM0:
-[0m[33m[1m .KMMMMMMMMMMMMMMMMMMMMMMMWd.
- XMMMMMMMMMMMMMMMMMMMMMMMX.
-[0m[31m[1m;MMMMMMMMMMMMMMMMMMMMMMMM:
-:MMMMMMMMMMMMMMMMMMMMMMMM:
-[0m[31m[1m.MMMMMMMMMMMMMMMMMMMMMMMMX.
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.
- [0m[35m[1m.XMMMMMMMMMMMMMMMMMMMMMMMMMMk
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.
-    [0m[34m[1mkMMMMMMMMMMMMMMMMMMMMMMd
-     ;KMMMMMMMWXXWMMMMMMMk.
-       .cooc,.    .,coo:.[0m
-[17A[9999999D[33C[0m[1m[32m[1msrthkpthk[0m@[32m[1mSrthks-MacBook-Pro.local[0m 
-[33C[0m----------------------------------[0m 
-[33C[0m[33m[1mOS[0m[0m:[0m macOS 26.0.1 25A362 arm64[0m 
-[33C[0m[33m[1mHost[0m[0m:[0m Mac15,6[0m 
-[33C[0m[33m[1mKernel[0m[0m:[0m 25.0.0[0m 
-[33C[0m[33m[1mUptime[0m[0m:[0m 6 days, 2 hours, 42 mins[0m 
-[33C[0m[33m[1mPackages[0m[0m:[0m 165 (brew)[0m 
-[33C[0m[33m[1mShell[0m[0m:[0m fish 3.7.1[0m 
-[33C[0m[33m[1mResolution[0m[0m:[0m 1800x1169[0m 
-[33C[0m[33m[1mDE[0m[0m:[0m Aqua[0m 
-[33C[0m[33m[1mWM[0m[0m:[0m Quartz Compositor[0m 
-[33C[0m[33m[1mWM Theme[0m[0m:[0m Blue (Dark)[0m 
-[33C[0m[33m[1mTerminal[0m[0m:[0m Apple_Terminal[0m 
-[33C[0m[33m[1mTerminal Font[0m[0m:[0m SFMono-Regular[0m 
-[33C[0m[33m[1mCPU[0m[0m:[0m Apple M3 Pro[0m 
-[33C[0m[33m[1mGPU[0m[0m:[0m Apple M3 Pro[0m 
-[33C[0m[33m[1mMemory[0m[0m:[0m 3237MiB / 18432MiB[0m 
-
-[33C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
-[33C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
 
 
-[?25h[?7h
+                    'c.          srthkpthk@Srthks-MacBook-Pro.local 
+                 ,xNMM.          ---------------------------------- 
+               .OMMMMo           OS: macOS 26.0.1 25A362 arm64 
+               OMMM0,            Host: Mac15,6 
+     .;loddo:' loolloddol;.      Kernel: 25.0.0 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 6 days, 2 hours, 42 mins 
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 165 (brew) 
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: fish 3.7.1 
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1800x1169 
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor 
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark) 
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: Apple_Terminal 
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: SFMono-Regular 
+    kMMMMMMMMMMMMMMMMMMMMMMd     CPU: Apple M3 Pro 
+     ;KMMMMMMMWXXWMMMMMMMk.      GPU: Apple M3 Pro 
+       .cooc,.    .,coo:.        Memory: 3210MiB / 18432MiB 
+
 ```
 ## Loves 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
